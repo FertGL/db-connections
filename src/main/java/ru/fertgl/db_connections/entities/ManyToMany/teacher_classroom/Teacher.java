@@ -3,6 +3,7 @@ package ru.fertgl.db_connections.entities.ManyToMany.teacher_classroom;
 import jakarta.persistence.*;
 
 import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Table(name = "teachers")
